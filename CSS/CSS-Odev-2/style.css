@@ -1,0 +1,45 @@
+.logo {
+  text-align: center;
+}
+
+.search-box {
+  text-align: center;
+}
+
+.search-box > input {
+  width: 27%;
+}
+
+.below-search-bar div {
+  margin-top: 5px;
+  display: inline-block;
+}
+
+.box1 {
+  background-color: #7ee5da;
+  float: left;
+  width: 35%;
+  height: 80px;
+  text-align: center;
+}
+
+.box2 {
+  background-color: #70ccc2;
+  float: center;
+  width: 29%;
+  height: 80px;
+  text-align: center;
+}
+
+.box3 {
+  background-color: #62b3aa;
+  float: right;
+  width: 35%;
+  height: 80px;
+  text-align: center;
+}
+
+.copyright {
+  margin-top: 5px;
+  text-align: center;
+}
